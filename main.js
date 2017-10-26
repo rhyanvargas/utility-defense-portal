@@ -1,3 +1,3 @@
-var stackLock = document.querySelector('.stacklock');
+var stackLock = document.getElementsByClassName('stacklock')
 
 stackLock.setAttribute("style", "display:none !important;");
